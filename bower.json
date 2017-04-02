@@ -1,0 +1,17 @@
+{
+  "name": "NorthWindNode",
+  "authors": [
+    "Leonard Luzon <leonard_luzon2000@yahoo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
